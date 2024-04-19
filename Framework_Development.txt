@@ -1,0 +1,26 @@
+
+
+What is framework?	maintains all project related files
+
+Objectives of Framework? re-usability, maintainability, readability
+
+Hybrid driven framework? 
+
+Phases of developing framework? 
+
+1) Understanding requirement 
+	functional specifications (static)
+	swagger
+	
+2) Choose automation tools 
+	Rest Assured Library
+	
+3) Design
+
+4) Development
+
+5) Execution + CI
+
+
+
+
